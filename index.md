@@ -1,6 +1,6 @@
 ## Welcome to My Blog
 
-You can click the [目录](https://atoposchou.github.io/目录.html) to read the articles on this website.
+You can click the [目录](https://atoposchou.github.io/catagory.html) to read the articles on this website.
 
 
 
