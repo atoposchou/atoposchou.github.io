@@ -1,8 +1,8 @@
 ## Welcome to My Blog
 
-You can use the [editor on GitHub](https://github.com/atoposchou/atoposchou.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can click the [目录](https://atoposchou.github.io.目录.html) to read the articles on this website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
